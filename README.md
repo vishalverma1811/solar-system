@@ -1,4 +1,4 @@
-# FrameUp
+# Solar System
 ---
 ## `Tech Stack used`
 - Unity
