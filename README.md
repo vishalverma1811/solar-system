@@ -5,7 +5,10 @@
 - C#
 - Microsoft Visual Studio
 ## `Description`
--
+- In this project, we show the rotation and revolution of planets(mercury, venus and earth) around The Sun.
+- We also show rotation and revolution of Moon around The Earth.
+- In the bottom left corner we have the top view of our Solar System.
+- By clicking, we can keep in focus that planet or sun, and see the rotation and revolution of planets. 
 ---
 # Video Demo
 
